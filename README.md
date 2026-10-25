@@ -1,4 +1,4 @@
-# Hi, I'm Komal Patil! 
+# Hi I'm Komal Patil 
 🎓 BCS Third-Year Student
 💻 Aspiring Software Developer
 
