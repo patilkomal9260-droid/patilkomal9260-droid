@@ -1,5 +1,5 @@
 # Hi I'm Komal Patil 
-🎓 BCS Third-Year Student
+🎓 BCS Student
 💻 Aspiring Software Developer
 
 ## About Me
