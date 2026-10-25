@@ -20,16 +20,19 @@
 ### 1. Blood Donation Management System
 - Technologies: ASP.NET, C#, SQL Server
 - Manages donor information and blood donation requests.
+  [View Project](https://github.com/patilkomal9260-droid/blood-donation-system)
 
 ### 2. Spam Email & SMS Detection
 - Technologies: Python, Machine Learning, Streamlit
 - Detects whether a message is spam or not spam.
+  [View Project](https://github.com/patilkomal9260-droid/Spam_detection-project)
 
 ### 3. Housing Price Prediction
 - Technologies: Python, Machine Learning, Streamlit
 - Predicts house prices using a machine learning model.
 - Provides an interactive web interface using Streamlit.
 - Displays predicted prices based on user inputs.
+  [View Project]()
 
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/komal-patil-499166379
