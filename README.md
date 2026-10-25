@@ -32,7 +32,7 @@
 - Predicts house prices using a machine learning model.
 - Provides an interactive web interface using Streamlit.
 - Displays predicted prices based on user inputs.
-  [View Project]()
+  [View Project](https://github.com/patilkomal9260-droid/housing-price_prediction-project)
 
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/komal-patil-499166379
