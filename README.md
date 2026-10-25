@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Komal Patil! 
+🎓 BCS Third-Year Student
+💻 Aspiring Software Developer
 
-<!--
-**patilkomal9260-droid/patilkomal9260-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I enjoy building applications.
+- I have worked on .NET and Python projects.
+- I know Git and GitHub.
+- I am looking for Internship opportunities.
 
-Here are some ideas to get you started:
+## Technical Skills
+- Languages: C, C++, C#, Python, Java
+- Web Development: HTML, CSS, JavaScript, ASP.NET
+- Database: SQL Server, MongoDB
+- Tools: Visual Studio, VS Code, Git, GitHub
+- Python: Streamlit, Pandas, NumPy etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects
+
+### 1. Blood Donation Management System
+- Technologies: ASP.NET, C#, SQL Server
+- Manages donor information and blood donation requests.
+
+### 2. Spam Email & SMS Detection
+- Technologies: Python, Machine Learning, Streamlit
+- Detects whether a message is spam or not spam.
+
+### 3. Housing Price Prediction
+- Technologies: Python, Machine Learning, Streamlit
+- Predicts house prices using a machine learning model.
+- Provides an interactive web interface using Streamlit.
+- Displays predicted prices based on user inputs.
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/komal-patil-499166379
+- GitHub: https://github.com/patilkomal9260-droid
+
+⭐ Thank you for visiting my profile!
